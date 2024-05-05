@@ -1,24 +1,9 @@
-# supermall
+## 远程仓库建立联系
+git remote add origin https://gitee.com/notyer/test.git
+git push -u origin "master"
 
-## Project setup
-```
-npm install
-```
+### git 添加基本操作
+git add .
+git commit -m "提交信息"
+git push origin master/main
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
